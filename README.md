@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=Jongwon%20Youn&fontColor=f59e0b&fontSize=60&fontAlign=62&fontAlignY=32&desc=korECM&descSize=25&descAlign=85&descAlignY=50&animation=twinkling)
+
+### 안녕하세요. 꾸준히 공부하는 개발자, 윤종원입니다😀
+
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/korecmblog-com-3776ab.svg?&style=flat-square&logo=Bloglovin&logoColor=white)](https://www.korecmblog.com?utm_source=github&utm_medium=readme&utm_campaign=github_readme_badge)
@@ -6,13 +10,26 @@
 
 </div>
 
-<div align="center">
+#### 📚 Back-End Engineer
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eatingcookieman)](https://solved.ac/eatingcookieman)
-[![LeetCode user korECM](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FkorECM&logo=leetcode&logoColor=yellow)](https://leetcode.com/korECM/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkorecm&count_bg=%23FFA200&title_bg=%23565656&icon=codeforces.svg&icon_color=%23FFA200&title=+hits+&edge_flat=true)](https://github.com/korecm)
+- 3년차 백엔드 엔지니어로 복잡한 문제를 구조화 해 논리적으로 푸는 것을 좋아합니다
+- 책을 통해 공부하는 것을 좋아합니다. 2021년에는 31권의 책을 읽었고 2022년에는 47권의 책을 읽었습니다
+- 잘 설계된 코드가 비즈니스 성장의 원동력이 될 수 있다고 생각합니다
+- 사내 개발 문화 개선이 팀의 성장 속도를 끌어올릴 수 있다고 생각하며, 팀의 성장이 곧 개인의 성장이라 믿습니다
+- 다양한 직군의 사람들과 대화하는 것을 좋아하고 개발의 어려움을 다른 언어로 풀어내어 설명하는 것을 즐깁니다
+- 업무의 비효율을 개발로 풀어내는 것을 선호하고 뿌듯함을 느낍니다
 
-</div>
+#### 🛠️ Stacks
+
+
+#### 👨‍💻 Work Experience
+- [디어코퍼레이션](https://blog.deering.co/) 2021.01 ~ 2023.03
+  - 백엔드 엔지니어
+  - 산업기능요원
+
+#### 🎓 Education
+- 중앙대학교 서울캠퍼스 창의ICT공과대학 전자전기공학부 전공, 소프트웨어학부 복수 전공
+  - 전체 평점 4.48 / 4.5 (99.77%)
 
 <!-- 
 레포 카드
