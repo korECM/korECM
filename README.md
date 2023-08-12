@@ -2,13 +2,11 @@
 
 ### 안녕하세요. 꾸준히 공부하는 개발자, 윤종원입니다😀
 
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/korecmblog-com-3776ab.svg?&style=flat-square&logo=Bloglovin&logoColor=white)](https://www.korecmblog.com?utm_source=github&utm_medium=readme&utm_campaign=github_readme_badge)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jongwon-youn-ecm)
-[![Résumé](https://img.shields.io/badge/Résumé-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://korecm.oopy.io/?utm_source=github&utm_medium=readme&utm_campaign=github_readme_badge)
-
-</div>
+### 📫 How to reach me
+- Email : eatingcookieman@gmail.com
+- Blog : [korecmblog.com](https://www.korecmblog.com?utm_source=github&utm_medium=readme&utm_campaign=github_readme)
+- LinkedIn : [linkedin.com/in/jongwon-youn-ecm](https://www.linkedin.com/in/jongwon-youn-ecm)
+- Résumé 👉 [Notion](https://korecm.oopy.io/?utm_source=github&utm_medium=readme&utm_campaign=github_readme_badge)
 
 #### 📚 Back-End Engineer
 
@@ -20,7 +18,15 @@
 - 업무의 비효율을 개발로 풀어내는 것을 선호하고 뿌듯함을 느낍니다
 
 #### 🛠️ Stacks
-
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 #### 👨‍💻 Work Experience
 - [디어코퍼레이션](https://blog.deering.co/) 2021.01 ~ 2023.03
