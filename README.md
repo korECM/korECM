@@ -37,6 +37,8 @@
 - 중앙대학교 서울캠퍼스 창의ICT공과대학 전자전기공학부 전공, 소프트웨어학부 복수 전공
   - 전체 평점 4.48 / 4.5 (99.77%)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkorECM%2FkorECM&count_bg=%23FF9800&title_bg=%23555555&icon=baidu.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- 
 레포 카드
 [![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_PROFILE_USERNAME&repo=YOUR_REPO_NAME)](https://github.com/MrKrishnaAgarwal/readme-components-github)
