@@ -6,7 +6,7 @@
 - Email : eatingcookieman@gmail.com
 - Blog : [korecmblog.com](https://www.korecmblog.com?utm_source=github&utm_medium=readme&utm_campaign=github_readme)
 - LinkedIn : [linkedin.com/in/jongwon-youn-ecm](https://www.linkedin.com/in/jongwon-youn-ecm)
-- Résumé 👉 [Notion](http://resume.korecmblog.com?utm_source=github&utm_medium=readme&utm_campaign=github_readme_badge)
+- Résumé 👉 [Résumé](http://resume.korecmblog.com?utm_source=github&utm_medium=readme&utm_campaign=github_readme_badge)
 
 #### 📚 Back-End Engineer
 
