@@ -29,6 +29,9 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 #### 👨‍💻 Work Experience
+- [데브시스터즈](https://www.devsisters.com/) 2024.01 ~
+  - 백엔드 셀
+  - 소프트웨어 엔지니어
 - [디어코퍼레이션](https://blog.deering.co/) 2021.01 ~ 2023.03
   - 백엔드 엔지니어
   - 산업기능요원
